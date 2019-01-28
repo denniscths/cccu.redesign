@@ -1,0 +1,98 @@
+main{
+	background-color: #FFF;	
+	padding-bottom: 40px;
+}
+
+.accordion{
+	margin: 10px 20px;
+	border-style: solid;
+    border-width: 3px;
+	font-size: 30px;
+	padding: 5px 20px;
+	transition: all .2s ease-in;
+}
+
+.accordion:hover{
+	background-color:#E5E5E5;
+	cursor: pointer;	
+}
+
+.down{
+float: right;
+}
+
+.subAccordion {
+	
+		margin: 10px 40px 40px;
+}
+
+
+
+.subAccordion img{
+
+	float: left;
+	margin-right: 2em;
+}
+
+.subAccordion h2{
+	margin-bottom: 5px;	
+}
+
+.subAccordion p{
+	
+	font-size: 20px;	
+}
+
+.subAccordionText{
+	display:block;
+	/*overflow:hidden;*/	
+}
+
+
+
+@media screen and (max-width: 1920px){
+	
+	 .subAccordion img{
+	height: 180px;	
+}
+
+	
+	 
+	 
+ }
+ 
+  @media screen and (max-width: 1195px){
+	
+}
+
+	 
+	
+
+
+ 
+  @media screen and (max-width: 1015px){
+
+}
+ 
+ 
+  @media screen and (max-width: 800px){
+	 
+	.subAccordion img{
+		width: 100%;
+		height: auto;
+		
+}
+
+
+
+
+
+ }
+ 
+ 
+ 
+#principalLecturersPanel,#lecturersPanel,#assistantPanel,#supoortStaffPanel{
+	
+	display:none;
+		
+}

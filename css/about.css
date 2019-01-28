@@ -1,0 +1,72 @@
+#programmesS3{
+	/*height:2500px;*/
+	background-color: #FFF;
+	width: 100%;	
+	margin:0px;
+}
+
+
+
+#programmesS3 .fixedLayout{
+	text-align: justify;
+	
+	
+}
+section .fixedLayout img{
+	float: left;
+	margin-right: 20px;
+	width: 300px;	
+	margin-bottom: 50px;
+}
+
+.opening {
+	font-size: 100px;
+	width: 70%;
+}
+.main {
+	clear: left;
+	line-height: 150%;
+	font-size: 40px;
+	border-bottom: solid;
+}
+
+p{
+	font-size: 25px;	
+}
+
+
+.MessageText{
+		font-size: 25px;
+		padding-bottom: 40px;	
+}
+
+
+
+
+@media screen and (max-width:1195px){
+
+
+}
+
+@media screen and (max-width:1015px){
+
+
+}
+
+@media screen and (max-width:800px){
+
+section .fixedLayout img{
+	
+	width: 100%;	
+	
+}
+
+p{
+	padding: 0 20px;	
+}
+
+.main{
+	margin: 0 20px;	
+}
+
+}

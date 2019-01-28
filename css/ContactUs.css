@@ -1,0 +1,163 @@
+/*
+.event{
+	width: 750px;
+	height: auto;
+	text-align:center;
+}
+
+.event img{
+			width: 750px;
+	height: auto;
+  margin: 0 0 10px;
+  
+}
+
+
+
+.eventword{
+	text-align:center;
+	margin: 10px 0;
+	
+	
+}
+
+iframe{
+		margin-top: 10px;	
+}
+
+
+
+.campusInfo{
+	margin: 30px 10px;	
+	
+}
+
+.informaitonText{
+	font-size: 25px;
+}
+
+
+
+ @media screen and (max-width: 1920px){
+	 
+ }
+ 
+ 
+ @media screen and (max-width: 1195px){
+	 
+	 sevenThreeColumn{
+			margin: 0 auto; 
+	 }
+	 
+	 
+.event{
+	width: 100%;
+	
+}
+
+.event img{
+			width: 100%;
+
+  
+}
+
+iframe{
+			width: 920px;
+			height: 400px; 
+	 }
+ }
+ 
+  
+ @media screen and (max-width: 1015px){
+	
+	 iframe{
+			width: 720px;
+			height: 400px; 
+	 }
+ }
+ 
+  @media screen and (max-width: 755px){
+
+	 iframe{
+			display: none;
+	 }
+	 .fixedLayout{
+		margin: 0 auto;
+		width: 100%; 
+}
+.eventword{
+	width: 100%;	
+}
+.event{
+		width: 350px;
+}
+#cccuMapsimg{
+	width: 100%;
+}	
+
+#sevenThreeColumn{
+	width: 100%;	
+}
+#sevenColumn{
+		width: 100%;		
+}
+
+.sevenColumnActicle{
+		width: 100%;
+}
+iframe{
+	width: 100%;	
+}
+.campusInfo{
+	width: 100%;	
+}
+
+ }*/
+ 
+ 
+ @media screen and (max-width: 1920px){
+	 .event{
+	width: 750px;
+	height: auto;
+	text-align:center;
+}
+
+.event img{
+			width: 100%;
+	height: auto;
+  margin: 0 0 10px;
+  
+}
+
+
+
+.eventword{
+	text-align:center;
+	margin: 10px 0;
+	
+	
+}
+
+iframe{
+		margin-top: 10px;	
+}
+
+
+
+.campusInfo{
+	margin: 30px 10px;	
+	
+}
+
+.informaitonText{
+	font-size: 25px;
+}
+ }
+ 
+ 
+  @media screen and (max-width: 1195px){
+		  .event{
+	width: 100%;
+	
+		  }
+  }
